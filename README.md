@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/SANYAM-MANIT/"><img src="https://img.shields.io/badge/LeetCode-1755-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/ja1n_sanyam_29/"><img src="https://img.shields.io/badge/LeetCode-ja1n__sanyam__29-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/Sanyam_jain_29"><img src="https://img.shields.io/badge/Codeforces-Sanyam__jain__29-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/jain_sj29"><img src="https://img.shields.io/badge/CodeChef-jain__sj29-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://github.com/SANYAM-MANIT"><img src="https://img.shields.io/badge/GitHub-SANYAM--MANIT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -12,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏆 **Competitive Programming**: LeetCode Rating **1755** — passionate about Data Structures & Algorithms, Optimization, and Problem Solving.
+- 🏆 **Competitive Programming**: Active problem solver on **LeetCode**, **Codeforces**, and **CodeChef**.
 - 🚆 **Featured Project**: Built **RailNova** — an AI-powered Railway Reservation & Management System leveraging Google Gemini AI & MongoDB.
 - 🌐 **Full-Stack Web & AI**: Crafting modern web applications with Node.js, Express, Vanilla JS/CSS, and Generative AI APIs.
 - 🔬 **Exploring**: Quantum Algorithms (Grover's Search), Advanced Backend Systems, and AI Integration.
@@ -59,16 +61,28 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 🧩 Competitive Programming Stats
 
+#### 🟡 LeetCode Stats (`ja1n_sanyam_29`)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANYAM-MANIT&theme=tokyonight&hide_border=true" width="100%" alt="Sanyam's GitHub Streak Stats" />
+  <img src="https://leetcard.jacoblin.cool/ja1n_sanyam_29?theme=dark&font=unicode&ext=activity" width="96%" alt="LeetCode Stats Card" />
 </p>
 
-<br />
+#### ⚔️ Codeforces Stats (`Sanyam_jain_29`)
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sanyam_jain_29&theme=tokyonight" width="96%" alt="Codeforces Stats Card" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANYAM-MANIT&theme=react-dark&hide_border=true" width="100%" alt="Sanyam's Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANYAM-MANIT&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANYAM-MANIT&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 ---
