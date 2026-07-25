@@ -62,12 +62,13 @@
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANYAM-MANIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANYAM-MANIT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANYAM-MANIT&theme=tokyonight&hide_border=true" width="100%" alt="Sanyam's GitHub Streak Stats" />
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANYAM-MANIT&theme=tokyonight&hide_border=true" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANYAM-MANIT&theme=react-dark&hide_border=true" width="100%" alt="Sanyam's Contribution Activity Graph" />
 </p>
 
 ---
